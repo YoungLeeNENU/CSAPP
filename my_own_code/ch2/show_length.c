@@ -22,7 +22,6 @@ int main(int argc, char *argv[])
     int c = 1;
     float d = 1.0;
     
-    /* show_bytes(); */
     show_int(c);
     show_float(d);
     
